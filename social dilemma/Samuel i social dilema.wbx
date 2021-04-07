@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WritersBloxData>
+  <ProjectInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Path>E:\Våra filer\Fredrik\Författarskap\Samuel in Social Dilema\Samuel i social dilema.wbx</Path>
+    <Title>Samuel i social dilema</Title>
+    <CreatedDate>2021-04-05 20:31:48</CreatedDate>
+  </ProjectInformation>
+  <ArrayOfDataChild xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <DataChild
+      FolderName="Samuel i social dilema">
+      <Character>
+        <WBGuid>e7010ef3-216e-4e57-a7cd-b4ad8883f69f</WBGuid>
+        <StoryEvents />
+        <Images />
+        <ProfileImage
+          FileName="pack://application:,,,/WritersBlox;component/Images/Icons/user_512.png" />
+        <Articles />
+        <Alias />
+        <Description>Samuel ringer henne och frågar efter sin mamma.</Description>
+        <Title />
+        <Name>Myrian Villalba</Name>
+      </Character>
+      <Character>
+        <WBGuid>197e1ef9-20d3-4387-ae0c-3c2c3bded166</WBGuid>
+        <StoryEvents />
+        <Images />
+        <ProfileImage
+          FileName="pack://application:,,,/WritersBlox;component/Images/Icons/user_512.png" />
+        <Articles />
+        <Alias>Zack</Alias>
+        <Description>Huvudperson ett. Letar sin mamma.</Description>
+        <Title />
+        <Name>Zakaria Triki</Name>
+      </Character>
+      <Character>
+        <WBGuid>0dc076ef-38dc-4012-a907-b2776cf0b114</WBGuid>
+        <StoryEvents />
+        <Images />
+        <ProfileImage
+          FileName="pack://application:,,,/WritersBlox;component/Images/Icons/user_512.png" />
+        <Articles />
+        <Alias />
+        <Description>Mamma till Zack
+
+Souhila hade spenderat hela sin tid som mamma med att hålla Zack borta från kriminella. Borta från gängen. Så vitt Zack visste, skötte hon Alis lägenhet och sitt eget jobb och spenderade resten av sin tid och energi med att försöka få grepp om sin enda son. Zack själv höll sig borta. Det gick inte att vara där, hemma hos Ali. Som om luften var toxisk. Han hade försökt förklara det men hon trodde att han fallit in i gängens grepp och att det var därför han höll sig borta.</Description>
+        <Title />
+        <Name>Souhila Triki</Name>
+      </Character>
+      <Character>
+        <WBGuid>e434515a-3b8a-4eed-b50d-68c298b93df1</WBGuid>
+        <StoryEvents />
+        <Images />
+        <ProfileImage
+          FileName="pack://application:,,,/WritersBlox;component/Images/Icons/user_512.png" />
+        <Articles />
+        <Alias />
+        <Description>Zacks kompis</Description>
+        <Title />
+        <Name>Kim </Name>
+      </Character>
+      <Character>
+        <WBGuid>b11a5798-d8ba-4673-9476-33b0701e6460</WBGuid>
+        <StoryEvents />
+        <Images />
+        <ProfileImage
+          FileName="pack://application:,,,/WritersBlox;component/Images/Icons/user_512.png" />
+        <Articles />
+        <Alias />
+        <Description>Huvudperson två. Socialsekreterare.</Description>
+        <Title />
+        <Name>Helen Gren</Name>
+      </Character>
+      <Character>
+        <WBGuid>ed8a80a6-20a5-4afc-a4ea-fe18749d8870</WBGuid>
+        <StoryEvents />
+        <Images />
+        <ProfileImage
+          FileName="pack://application:,,,/WritersBlox;component/Images/Icons/user_512.png" />
+        <Articles />
+        <Alias />
+        <Description>Med i nätverket. På ganska hög nivå, kapten, typ. Högsta i Järfälla. Han har ett antal löjtnanter under sig som leder mindre gäng i Jakobsberg och Kallhäll. 
+I hans ansvar ingår lägenheten där barnet och Souhila dör. Men det är inte han som bor där eller hanterar dem. Det gör en annan kille ?</Description>
+        <Title />
+        <Name>Yacinn Benali</Name>
+      </Character>
+      <Character>
+        <WBGuid>9b997977-f164-4162-934b-dd84747afe3a</WBGuid>
+        <StoryEvents />
+        <Images />
+        <ProfileImage
+          FileName="pack://application:,,,/WritersBlox;component/Images/Icons/user_512.png" />
+        <Articles />
+        <Alias />
+        <Description>Ung kollega till Helen. Avviker för att slippa omhänderta i hemmet.</Description>
+        <Title />
+        <Name>Mia</Name>
+      </Character>
+      <Character>
+        <WBGuid>e5d6c16d-0407-4054-8bed-014f563ef4a3</WBGuid>
+        <StoryEvents />
+        <Images />
+        <ProfileImage
+          FileName="pack://application:,,,/WritersBlox;component/Images/Icons/user_512.png" />
+        <Articles />
+        <Alias />
+        <Description>Pojken som blir omhändertagen.</Description>
+        <Title />
+        <Name>Ermin Perić</Name>
+      </Character>
+    </DataChild>
+  </ArrayOfDataChild>
+</WritersBloxData>
